@@ -58,7 +58,7 @@ Or use a Live Server extension in VS Code for better experience.
 
 
 Live Deploy 
-(https://sreeweatherapp.netlify.app/)
+[https://sreeweatherapp.netlify.app/]
 
 
 📌 Notes
