@@ -57,6 +57,10 @@ Or use a Live Server extension in VS Code for better experience.
 ![Weather View](https://github.com/user-attachments/assets/a87c09b6-3e68-4c07-96d7-065e25dd016c)
 
 
+Live Deploy 
+(https://sreeweatherapp.netlify.app/)
+
+
 📌 Notes
 Ensure location permission is enabled for geolocation features.
 API usage is limited based on your free OpenWeatherMap plan (typically 60 calls/min).
@@ -76,7 +80,7 @@ Developed with ❤️ by Chapala Sriram.
 📝 Internship Info
 👨‍💻 Developer: Chapala Sriram
 🏢 Organization: Prodigy Infotech
-📅 Submission Date: 11/09/2025
+📅 Submission Date: 27/09/2025
 🧭 Track Code: WD
 🔢 Track Number: 05
 
