@@ -2,6 +2,7 @@
 
 A sleek, responsive, and modern weather forecast web application that provides **real-time weather updates**, **hourly forecasts**, and **7-day daily forecasts** using the **OpenWeatherMap API**.
 
+
 ---
 
 ## 🚀 Features
@@ -16,6 +17,7 @@ A sleek, responsive, and modern weather forecast web application that provides *
 - ❌ **Error Handling** – Clear error messages for invalid inputs or API issues.
 - ✅ **Responsive Design** – Works seamlessly across desktop, tablet, and mobile screens.
 
+
 ---
 
 ## 🛠️ Technologies Used
@@ -27,22 +29,24 @@ A sleek, responsive, and modern weather forecast web application that provides *
 
 ---
 
+
 ## 📦 File Structure
 Weather-App/
 │
-├── index.html # Main HTML file
-├── styles.css # CSS file for styling
-├── script.js # JavaScript logic
-├── README.md # This file
-
+├── index.html      # Main HTML file
+├── styles.css      # CSS file for styling
+├── script.js       # JavaScript logic
+├── README.md       # Project overview and instructions
+├── LICENSE         # Open-source MIT License
 
 ---
+
 
 ## 🧩 Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   https://github.com/Sreeram0829/PRODIGY_WD_05.git
    cd weather-app
 2.Add Your OpenWeatherMap API Key:
 This project uses the following API key:
